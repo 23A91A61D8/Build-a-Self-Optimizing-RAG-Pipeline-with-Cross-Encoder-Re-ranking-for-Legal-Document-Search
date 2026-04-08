@@ -1,0 +1,2 @@
+print("Project Setup Successful ✅")
+

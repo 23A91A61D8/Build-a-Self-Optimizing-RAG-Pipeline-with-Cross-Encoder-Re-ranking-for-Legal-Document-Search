@@ -1,0 +1,52 @@
+[
+  {
+    "query_id": "q1",
+    "query_text": "employee agreement duties",
+    "relevant_docs": ["doc1"]
+  },
+  {
+    "query_id": "q2",
+    "query_text": "lease agreement rent payment",
+    "relevant_docs": ["doc2"]
+  },
+  {
+    "query_id": "q3",
+    "query_text": "confidentiality agreement nda",
+    "relevant_docs": ["doc3"]
+  },
+  {
+    "query_id": "q4",
+    "query_text": "supplier delivery terms",
+    "relevant_docs": ["doc4"]
+  },
+  {
+    "query_id": "q5",
+    "query_text": "arbitration dispute resolution",
+    "relevant_docs": ["doc5"]
+  },
+  {
+    "query_id": "q6",
+    "query_text": "employment responsibilities",
+    "relevant_docs": ["doc6"]
+  },
+  {
+    "query_id": "q7",
+    "query_text": "software license usage",
+    "relevant_docs": ["doc7"]
+  },
+  {
+    "query_id": "q8",
+    "query_text": "service agreement payment terms",
+    "relevant_docs": ["doc8"]
+  },
+  {
+    "query_id": "q9",
+    "query_text": "partnership profit sharing",
+    "relevant_docs": ["doc9"]
+  },
+  {
+    "query_id": "q10",
+    "query_text": "insurance claim policy",
+    "relevant_docs": ["doc10"]
+  }
+]
